@@ -1,0 +1,12 @@
+patient_id,first_name,last_name,date_of_birth,gender,city,modified_at
+P1001,Anika,Rao,1988-04-12,F,Chennai,2026-09-01T09:00:00
+P1002,Rohan,Iyer,1975-11-03,M,Bengaluru,2026-09-02T10:30:00
+P1003,Meera,Kumar,1999-02-21,F,Coimbatore,2026-09-03T11:15:00
+P1004,Dev,Shah,1982-07-09,M,,2026-09-04T12:00:00
+P1005,Sara,Nair,not-a-date,F,Madurai,2026-09-05T08:45:00
+P1006,Kavin,Das,2001-12-30,,Salem,2026-09-06T14:20:00
+P1007,Ishaan,Menon,1968-05-18,M,Chennai,2026-09-07T16:10:00
+P1008,Tara,Pillai,1993-08-25,F,Trichy,2026-09-08T10:00:00
+P1003,Meera,Kumar,1999-02-21,F,Coimbatore,2026-09-03T11:15:00
+,Unknown,Person,1990-01-01,M,Chennai,2026-09-09T09:00:00
+P1010,,Missing,1980-06-01,F,Erode,2026-09-09T09:15:00

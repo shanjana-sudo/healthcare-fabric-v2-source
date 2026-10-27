@@ -1,0 +1,6 @@
+diagnosis_code,diagnosis_name,category
+DX01,Hypertension,Chronic
+DX02,Type 2 diabetes,Chronic
+DX03,Migraine,Neurological
+DX04,Asthma,Respiratory
+DX05,Viral infection,Infectious
