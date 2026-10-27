@@ -1,0 +1,81 @@
+provider_id,provider_name,specialty,department_id,provider_status
+PR001,Dr. Diya Sharma,Neurology,D04,Active
+PR002,Dr. Ishaan Iyer,Cardiology,D10,On Leave
+PR003,Dr. Aditi Sharma,Cardiology,D04,Active
+PR004,Dr. Nikhil Roy,General Medicine,D09,Active
+PR005,Dr. Priya Mehta,Pulmonology,D08,Active
+PR006,Dr. Aarav Gupta,Dermatology,D06,Active
+PR007,Dr. Ishaan Kumar,Orthopedics,D02,Active
+PR008,Dr. Dev Iyer,Orthopedics,D06,Active
+PR009,Dr. Aditi Verma,Cardiology,D99,Active
+PR010,Dr. Priya Das,Orthopedics,D10,Active
+PR011,Dr. Arjun Patel,Pulmonology,D05,Active
+PR012,Dr. Neha Iyer,Dermatology,D05,On Leave
+PR013,Dr. Ananya Gupta,Orthopedics,D06,Active
+PR014,Dr. Rohan Reddy,Endocrinology,D09,Active
+PR015,Dr. Kavya Verma,Dermatology,D05,Active
+PR016,Dr. Vikram Patel,Pulmonology,D01,Active
+PR017,Dr. Dev Menon,Cardiology,D04,Active
+PR018,Dr. Meera Kapoor,Dermatology,D11,On Leave
+PR019,Dr. Ishaan Menon,Endocrinology,D04,Active
+PR020,,Dermatology,D06,Active
+PR021,Dr. Ishaan Mishra,Urology,D02,Active
+PR022,Dr. Diya Nair,Endocrinology,D11,On Leave
+PR023,Dr. Tara Reddy,Dermatology,D07,On Leave
+PR024,Dr. Nikhil Menon,General Medicine,D11,Active
+PR025,Dr. Priya Menon,Orthopedics,D02,Active
+PR026,Dr. Ira Gupta,Urology,D01,Active
+PR027,Dr. Nikhil Gupta,Cardiology,D11,Active
+PR028,Dr. Nikhil Roy,Pulmonology,D03,Active
+PR029,Dr. Kavya Bose,General Medicine,D10,Active
+PR030,Dr. Maya Sharma,Cardiology,D06,Active
+PR031,Dr. Neha Patel,Pulmonology,D10,Active
+PR032,Dr. Arjun Kapoor,Cardiology,D09,Active
+PR033,Dr. Ishaan Kapoor,Endocrinology,D05,On Leave
+PR034,Dr. Meera Bose,Pulmonology,D12,Active
+PR035,Dr. Dev Joshi,Urology,D09,On Leave
+PR036,Dr. Diya Rao,Pulmonology,D02,Active
+PR037,Dr. Aarav Jain,Pulmonology,D10,Active
+PR038,Dr. Aarav Reddy,General Medicine,D04,Active
+PR039,Dr. Aditi Singh,Cardiology,D09,Active
+PR040,Dr. Rohan Kapoor,Pulmonology,D09,Active
+PR041,Dr. Rahul Jain,Urology,D04,On Leave
+PR042,Dr. Ira Kumar,Cardiology,D02,On Leave
+PR043,Dr. Ananya Mehta,Dermatology,D08,Active
+PR044,Dr. Diya Patel,Dermatology,D12,Active
+PR045,Dr. Diya Rao,Pulmonology,D04,On Leave
+PR046,Dr. Ishaan Mehta,Endocrinology,D05,On Leave
+PR047,Dr. Neha Reddy,Urology,D09,Active
+PR048,Dr. Aditi Bose,General Medicine,D02,Active
+PR049,Dr. Kavya Mehta,Urology,D08,Active
+PR050,Dr. Dev Patel,Endocrinology,D07,Active
+PR051,Dr. Dev Menon,Urology,D05,On Leave
+PR052,Dr. Priya Kapoor,Endocrinology,D04,Active
+PR053,Dr. Meera Patel,General Medicine,D12,Active
+PR054,Dr. Aditi Patel,Urology,D09,Active
+PR055,Dr. Aditi Mishra,Cardiology,D03,Active
+PR056,Dr. Tara Reddy,Pulmonology,D07,Active
+PR057,Dr. Rahul Rao,General Medicine,D10,Active
+PR058,Dr. Ira Jain,Orthopedics,D05,Active
+PR059,Dr. Vikram Rao,Neurology,D07,Active
+PR060,Dr. Sana Verma,Orthopedics,D02,Active
+PR061,Dr. Kabir Roy,Cardiology,D02,Active
+PR062,Dr. Nikhil Menon,Endocrinology,D06,Active
+PR063,Dr. Neha Joshi,Neurology,D03,On Leave
+PR064,Dr. Priya Das,General Medicine,D11,Active
+PR065,Dr. Diya Nair,Neurology,D02,Active
+PR066,Dr. Priya Nair,Neurology,D05,Active
+PR067,Dr. Vikram Kumar,Neurology,D09,On Leave
+PR068,Dr. Rohan Patel,Cardiology,D11,On Leave
+PR069,Dr. Rohan Patel,General Medicine,D06,Active
+PR070,Dr. Rohan Gupta,Urology,D09,On Leave
+PR071,Dr. Priya Sharma,Cardiology,D02,Active
+PR072,Dr. Priya Patel,Orthopedics,D10,Active
+PR073,Dr. Ira Nair,General Medicine,D05,Active
+PR074,Dr. Aditi Joshi,Pulmonology,D11,Active
+PR075,Dr. Diya Joshi,Dermatology,D10,Active
+PR076,Dr. Neha Gupta,Endocrinology,D07,Active
+PR077,Dr. Kavya Singh,Dermatology,D11,Active
+PR078,Dr. Rohan Gupta,Cardiology,D07,Active
+PR079,Dr. Maya Rao,Pulmonology,D08,Active
+PR080,Dr. Sana Rao,Pulmonology,D01,Active

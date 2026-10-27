@@ -1,0 +1,16 @@
+diagnosis_code,diagnosis_name,category
+DX001,Hypertension,Cardiovascular
+DX002,Type 2 diabetes,Endocrine
+DX003,Asthma,Respiratory
+DX004,Acute bronchitis,Respiratory
+DX005,Migraine,Neurology
+DX006,Low back pain,Musculoskeletal
+DX007,Anxiety disorder,Mental Health
+DX008,Iron deficiency anemia,Hematology
+DX009,Gastroesophageal reflux,Digestive
+DX010,Urinary tract infection,Urology
+DX011,Osteoarthritis,Musculoskeletal
+DX012,Pneumonia,Respiratory
+DX013,Hypothyroidism,Endocrine
+DX014,Dermatitis,Dermatology
+DX015,Acute sinusitis,ENT
