@@ -1,0 +1,81 @@
+{
+  "tables": {
+    "patients": {
+      "primary_key": "patient_id",
+      "columns": {
+        "patient_id": "string",
+        "first_name": "string",
+        "last_name": "string",
+        "date_of_birth": "date",
+        "gender": "string",
+        "city": "string",
+        "registration_date": "date"
+      }
+    },
+    "providers": {
+      "primary_key": "provider_id",
+      "columns": {
+        "provider_id": "string",
+        "provider_name": "string",
+        "specialty": "string",
+        "department_id": "string",
+        "provider_status": "string"
+      }
+    },
+    "encounters": {
+      "primary_key": "encounter_id",
+      "columns": {
+        "encounter_id": "string",
+        "patient_id": "string",
+        "provider_id": "string",
+        "department_id": "string",
+        "encounter_type": "string",
+        "admission_datetime": "timestamp",
+        "discharge_datetime": "timestamp",
+        "encounter_status": "string",
+        "total_charge": "decimal(18,2)"
+      }
+    },
+    "diagnosis_catalog": {
+      "primary_key": "diagnosis_code",
+      "columns": {
+        "diagnosis_code": "string",
+        "diagnosis_name": "string",
+        "category": "string"
+      }
+    },
+    "diagnoses": {
+      "primary_key": "diagnosis_record_id",
+      "columns": {
+        "diagnosis_record_id": "string",
+        "encounter_id": "string",
+        "diagnosis_code": "string",
+        "diagnosis_type": "string",
+        "recorded_datetime": "timestamp"
+      }
+    }
+  },
+  "relationships": [
+    {
+      "from": "encounters.patient_id",
+      "to": "patients.patient_id",
+      "type": "many-to-one"
+    },
+    {
+      "from": "encounters.provider_id",
+      "to": "providers.provider_id",
+      "type": "many-to-one"
+    },
+    {
+      "from": "diagnoses.encounter_id",
+      "to": "encounters.encounter_id",
+      "type": "many-to-one"
+    },
+    {
+      "from": "diagnoses.diagnosis_code",
+      "to": "diagnosis_catalog.diagnosis_code",
+      "type": "many-to-one"
+    }
+  ],
+  "notes": "Synthetic learning reference. Department master is outside the initial five-table scope."
+}
