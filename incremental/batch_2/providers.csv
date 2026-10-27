@@ -1,0 +1,7 @@
+provider_id,provider_name,specialty,department_id,provider_status,source_updated_at
+PR030,Dr. Kavya Menon,Cardiology,D03,Active,2026-03-02 00:00:00
+PR072,Dr. Priya Patel,Orthopedics,D10,Active,2026-03-02 00:00:00
+PR021,Dr. Ishaan Mishra,Urology,D02,Active,2026-03-02 00:00:00
+PR064,Dr. Priya Das,General Medicine,D11,Active,2026-03-02 00:00:00
+PR045,Dr. Diya Rao,Pulmonology,D04,On Leave,2026-03-02 00:00:00
+PR074,Dr. Aditi Joshi,Pulmonology,D11,Active,2026-03-02 00:00:00
