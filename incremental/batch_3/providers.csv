@@ -1,0 +1,7 @@
+provider_id,provider_name,specialty,department_id,provider_status,source_updated_at
+PR030,Dr. Kavya Menon,Cardiology,D04,Active,2026-04-01 00:00:00
+PR077,Dr. Kavya Singh,Dermatology,D11,Active,2026-04-01 00:00:00
+PR028,Dr. Nikhil Roy,Pulmonology,D03,Active,2026-04-01 00:00:00
+PR001,Dr. Diya Sharma,Neurology,D04,Active,2026-04-01 00:00:00
+PR057,Dr. Rahul Rao,General Medicine,D10,Active,2026-04-01 00:00:00
+PR001,Dr. Diya Sharma,Neurology,D04,Active,2026-04-01 00:00:00
