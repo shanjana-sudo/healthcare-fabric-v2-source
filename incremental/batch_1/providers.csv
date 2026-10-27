@@ -1,0 +1,7 @@
+provider_id,provider_name,specialty,department_id,provider_status,source_updated_at
+PR030,Dr. Kavya Menon,Cardiology,D01,Active,2026-01-31 00:00:00
+PR027,Dr. Nikhil Gupta,Cardiology,D11,Active,2026-01-31 00:00:00
+PR072,Dr. Priya Patel,Orthopedics,D10,Active,2026-01-31 00:00:00
+PR036,Dr. Diya Rao,Pulmonology,D02,Active,2026-01-31 00:00:00
+PR057,Dr. Rahul Rao,General Medicine,D10,Active,2026-01-31 00:00:00
+PR011,Dr. Arjun Patel,Pulmonology,D05,Active,2026-01-31 00:00:00
